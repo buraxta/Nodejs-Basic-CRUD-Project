@@ -1,4 +1,4 @@
-# Nodejs-Basic-CRUD-ProjectI
+# Nodejs-Basic-CRUD-Project
 
 This project is a basic Node.js API built with Express.js and Mongoose to perform CRUD operations on a MongoDB database. This application is aimed at beginners who want to learn how to build an API and use MongoDB.
 ## Installation
